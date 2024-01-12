@@ -1,0 +1,5 @@
+<option>Please choose from below</option>
+<option value="Dr.N.H.Siddalinga Swamy(Director)">Dr.N.H.Siddalinga Swamy(Director)</option>
+
+<option value="Dr.Madhukar Maruti Waware(Deputy Director)">Dr.Madhukar Maruti Waware(Deputy Director)</option>
+<option value="Sh.Rahul Kumar(System Analyst/Programmer)">Sh.Rahul Kumar(System Analyst/Programmer)</option>

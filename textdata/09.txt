@@ -1,0 +1,9 @@
+<option>Please choose from below</option>
+<option value="Sh. Dal Chand(Admn. Officer)">Shri Dal Chand(Admn. Officer)</option>
+
+<option value="Sh. Harinder Singh(DEO Gr.-I)">Shri Harinder Singh(DEO Gr.-I)</option>
+<option value="Sh. Gopal(UDC(Store))">Sh. Gopal(UDC(Store))</option>
+<option value="Sh. Sarju Mandal(UDC)">Sh. Sarju Mandal(UDC)</option>
+<option value="Sh.Karambir Singh(LDC)">Sh.Karambir Singh(LDC)</option>
+<option value="Sh.Dalbir(Peon/Multi Task Staff)">Sh.Dalbir(Peon/Multi Task Staff)</option>
+
